@@ -1,6 +1,6 @@
 # Smart-clock-thermometer-hygrometer
 ## The motivation
-This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with are: 
+This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with this microcontroller are: 
 * Displaying characters with *LCD1602 module*
 * Monitoring temperature and humidity with *DHT11 Temperature and Humidity Module*
 * Motion sensing with *HC-SR501 PIR Motion Sensor Module*
