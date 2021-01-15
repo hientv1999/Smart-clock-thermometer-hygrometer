@@ -1,5 +1,5 @@
 # Smart-clock-thermometer-hygrometer
-[***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)  
+[***Download full project (contains PCB folder, README instruction file, code and gallery)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)  
 ## Table of Contents  
 [The motivation](#the-motivation)  
 [Description](#description)  
