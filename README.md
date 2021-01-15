@@ -71,7 +71,7 @@ You may wish to install some libraries:
 
 Click on the name of the library in blue color to download it. After downloading, in your Arduino IDE, go to Sketch -> Include Library -> Add .ZIP Library. Then browse and select the library you just downloaded.
 
-[Access code file](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
+[View and code file here](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 
 ***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board***
 ***Loudness and speed of clap can be customized in the code***
