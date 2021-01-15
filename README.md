@@ -35,4 +35,5 @@ The final project will be a device that can:
 | 220 Ω resistor | 3 |
 | 1 kΩ resistor | 5 |
 | 2 kΩ resistor | 1 |
-| USB cable | 1 |
+| USB cable or Power cable | 1 |
+## Circuit
