@@ -58,7 +58,7 @@ I'm using KiCad to make the schematic for this project. You can either print it 
 [Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 ![alt text](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
 ## Program
-[Access code file](https://https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
+[Access code file](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 ```
 #include <IRremote.h> 
 #include <dht.h> //temperature measure
