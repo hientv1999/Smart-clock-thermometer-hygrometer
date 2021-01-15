@@ -55,14 +55,14 @@ The final project (under default) will be a device that can:
 | Female-to-Male Dupont Wire | 20 |
 | Breadboard Jumper Wire | ~60 |
 ## Procedure
-1. Hardware connections
+### Hardware connections
 
 I'm using KiCad to make the schematic for this project. You can either print it onto a PCB or wire everything on the breadboard.
 
 [Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 
 ![Schematic](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
-2. Programming
+### Programming
 
 In this project, I use Arduino IDE for beginner's convenience. It is a free software and most tinkering beginner will be familiar with.
 
