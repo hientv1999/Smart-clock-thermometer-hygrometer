@@ -86,6 +86,7 @@ Click on the name of the library in blue color to download it. After downloading
 ## Gallery
 ### Hardware Hookup
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_000.jpeg">  
+  
 ***I put a motor and fan for cooling purpose but it turns out to be very loud and unneccessary.***
 
 ### Enclosure Assembly
