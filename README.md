@@ -7,7 +7,10 @@
 [ 1. Hardware connections](#hardware-connections)  
 [ 2. Programming](#programming)  
 [Gallery](#gallery)  
-
+[ 1. Hardware Hookup](#hardware-hookup)
+[ 2. Enclosure Assembly](#enclosure-assembly)
+[ 3. Behaviours](#behaviours)
+[ 4. Final Product](#final-product)
 [***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)
 
 ## The motivation
@@ -84,12 +87,12 @@ Click on the name of the library in blue color to download it. After downloading
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_000.jpeg">
 
 
-### Enclosure assembly
+### Enclosure Assembly
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_003.jpeg">
 
 
-### Behaviour
+### Behaviours
 <img align = "left" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_001.jpeg"> <img alignt = "right" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_002.jpeg">
 
-### Final product 
+### Final Product 
 ![Final product](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Video.gif)
