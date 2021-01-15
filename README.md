@@ -80,9 +80,21 @@ Click on the name of the library in blue color to download it. After downloading
 
 [View and code file here](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 
-***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board.***
+***Ensure the computer you used to upload the code has correct timer since it affects the timer of the project***
 
-***Loudness and time betwwen claps can be customized in the code.***
+***Loudness and time betwwen claps can be customized in the code via `soundThreshold` and `intervalClap` variable.***
+
+***3 lines of code should be removed after the first programming uploading to Arduino:***
+
+ ```
+ 
+rtc.adjust(DateTime(__DATE__, __TIME__));
+  DateTime t = DateTime(rtc.now().unixtime()+6);
+  rtc.adjust(t);
+  
+ ```
+ ***After the second uploading, your Arduino will always have the correct time as long as the CMOS battery still works. It's ready to be used or placed in a enclosure now***
+ 
 ## Gallery
 ### Hardware Hookup
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_000.jpeg">  
