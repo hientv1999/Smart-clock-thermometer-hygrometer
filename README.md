@@ -16,20 +16,20 @@
 
 ## The motivation
 This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with this microcontroller are: 
-1. Displaying characters with *LCD1602 Module*
-2. Monitoring temperature and humidity with *DHT11 Temperature and Humidity Module*
-3. Motion sensing with *HC-SR501 PIR Motion Sensor Module*
-4. Time display with *DS1307 RTC Module* and *4 Digit 7-Segment Display*
-5. Sound activation with *KY-037 Sound Detection Sensor*
+1. Displaying characters with `LCD1602 Module`
+2. Monitoring temperature and humidity with `DHT11 Temperature and Humidity Module`
+3. Motion sensing with `HC-SR501 PIR Motion Sensor Module`
+4. Time display with `DS1307 RTC Module* and *4 Digit 7-Segment Display`
+5. Sound activation with `KY-037 Sound Detection Sensor`
 
 However, I wanted to make a special project that outclassed the above ones. Also, the projects must not use other modules other than the 6 mentioned modules above since I only have those in hands at that moment. Also, I desired to exploit the capability of the Arduino Uno R3 microcontroller as much as I can. Therefore, I came up with this project to fully utilize the entire I/O pins of Arduino Uno R3 microcontroller and all modules I have.
 ## Description
 The final project (under default) will be a device that can:
-* Switch between the *LCD1602 Module* and *4 Digit 7-Segment Display* to show the information based on the presence of the user.
-* Under default, the device will display the time under 24-hour format via the *4 Digit 7-Segment Display* for easier visibility.
-* If the user stays closer than 3 meters from the device, the device will switch to the *LCD1602 Module* to display time for 10 seconds and then, temperature and humidity readings for 10 seconds.
-* *LCD1602 Module* will be turned off after 10 seconds to save power.
-* *LCD1602 Module* can always be activated by motion within 3 meters or hand clap.
+* Switch between the `LCD1602 Module` and `4 Digit 7-Segment Display` to show the information based on the presence of the user.
+* Under default, the device will display the time under 24-hour format via the `4 Digit 7-Segment Display` for easier visibility.
+* If the user stays closer than 3 meters from the device, the device will switch to the `LCD1602 Module` to display time for 10 seconds and then, temperature and humidity readings for 10 seconds.
+* `LCD1602 Module` will be turned off after 10 seconds to save power.
+* `LCD1602 Module` can always be activated by motion within 3 meters or hand clap.
 * Single clap for showing Time reading only for 10 seconds.
 * Double clap for showing temperature and humidity readings only for 10 seconds.
 
