@@ -93,7 +93,7 @@ rtc.adjust(DateTime(__DATE__, __TIME__));
   rtc.adjust(t);
   
  ```
- ***After the second uploading, your Arduino will always have the correct time as long as the CMOS battery still works. It's ready to be used or placed in a enclosure now***
+ ***After the second uploading, your Arduino will always have the correct time as long as the CMOS battery still works. It's ready to be used or placed in an enclosure now***
  
 ## Gallery
 ### Hardware Hookup
