@@ -1,4 +1,5 @@
 # Smart-clock-thermometer-hygrometer
+[***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)  
 ## Table of Contents  
 [The motivation](#the-motivation)  
 [Description](#description)  
@@ -11,7 +12,7 @@
 [ 2. Enclosure Assembly](#enclosure-assembly)  
 [ 3. Behaviours](#behaviours)  
 [ 4. Final Product](#final-product)  
-[***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)
+
 
 ## The motivation
 This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with this microcontroller are: 
