@@ -74,7 +74,7 @@ You may wish to install some libraries:
 * [dht.h](https://downloads.arduino.cc/libraries/github.com/adafruit/DHT_sensor_library-1.4.1.zip)
 * [LiquidCrystal.h](https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip)
 * [RTClib.h](https://downloads.arduino.cc/libraries/github.com/adafruit/RTClib-1.12.4.zip)
-* [SevSeg.h](https://downloads.arduino.cc/libraries/github.com/DeanIsMe/SevSeg-3.5.0.zip). 
+* [SevSeg.h](https://downloads.arduino.cc/libraries/github.com/DeanIsMe/SevSeg-3.5.0.zip)  
 
 Click on the name of the library in blue color to download it. After downloading, in your Arduino IDE, go to Sketch -> Include Library -> Add .ZIP Library. Then browse and select the library you just downloaded.
 
