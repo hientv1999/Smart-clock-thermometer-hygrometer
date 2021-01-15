@@ -5,7 +5,7 @@
 [Required components](#required-components)  
 [Schematic](#schematic)  
 [Program](#program)  
-[Photo gallery](#photo-gallery)  
+[Gallery](#gallery)  
 <a name="headers"/>
 
 [***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)
@@ -228,4 +228,4 @@ void loop()
 ```
 ***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board***
 ***Loudness and speed of clap can be customized in the code***
-## Photo gallery
+## Gallery
