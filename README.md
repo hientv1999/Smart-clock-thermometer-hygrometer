@@ -4,6 +4,7 @@
 [Description](#description)  
 [Required components](#required-components)
 [Procedure](#procedure)
+
 [ 1. Hardware connections](#hardware-connections)  
 [ 2. Programming](#programming)  
 [Gallery](#gallery)  
