@@ -7,7 +7,6 @@
 [ 1. Hardware connections](#hardware-connections)  
 [ 2. Programming](#programming)  
 [Gallery](#gallery)  
-<a name="headers"/>
 
 [***Download full project (contains PCB folder, README instruction file, Schematic picture and code)***](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)
 
