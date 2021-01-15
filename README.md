@@ -16,7 +16,7 @@ The final project will be a device that can:
 * Displays will be turned off after 10 seconds to save power
 * Displays can be activated again by hand-waving or hand clap.
 
-***Bonus: RGB LEDs will be added to make it look more attractive***
+***Bonus: RGB LEDs will be added to make device's look more attractive***
 ## Required components
 | Devices | Number |
 | :-----: | :----: | 
