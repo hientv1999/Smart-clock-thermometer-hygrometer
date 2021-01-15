@@ -55,6 +55,7 @@ The final project (under default) will be a device that can:
 | Breadboard Jumper Wire | ~60 |
 ## Schematic
 I'm using KiCad to make the schematic for this project. You can either print it onto a PCB or wire everything on the breadboard.
+
 [Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 ![Schematic](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
 ## Program
@@ -65,14 +66,12 @@ In this project, I use Arduino IDE for beginner's convenience. It is a free soft
 ***Loudness and speed of clap can be customized in the code***
 ## Gallery
 ### Hardware Hookup
-<p align="center">
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_000.jpeg">
-</p>
+
 
 ### Enclosure assembly
-<p align="center">
   <img width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_003.jpeg">
-</p>
+
 
 ### Behaviour
 <img align = "left" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_001.jpeg"> <img alignt = "right" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_002.jpeg">
