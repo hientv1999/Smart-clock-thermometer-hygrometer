@@ -62,6 +62,15 @@ I'm using KiCad to make the schematic for this project. You can either print it 
 ## Program
 In this project, I use Arduino IDE for beginner's convenience. It is a free software and most tinker beginner will be familiar with.
 
+You may wish to install some libraries: 
+* [IRRemote.h](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.8.1.zip)
+* [dht.h](https://downloads.arduino.cc/libraries/github.com/adafruit/DHT_sensor_library-1.4.1.zip)
+* [LiquidCrystal.h](https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip)
+* [RTClib.h](https://downloads.arduino.cc/libraries/github.com/adafruit/RTClib-1.12.4.zip)
+* [SevSeg.h](https://downloads.arduino.cc/libraries/github.com/DeanIsMe/SevSeg-3.5.0.zip). 
+
+Click on the name of the library in blue color to download it. After downloading, in your Arduino IDE, go to Sketch -> Include Library -> Add .ZIP Library. Then browse and select the library you just downloaded.
+
 [Access code file](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 
 ***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board***
@@ -78,5 +87,5 @@ In this project, I use Arduino IDE for beginner's convenience. It is a free soft
 ### Behaviour
 <img align = "left" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_001.jpeg"> <img alignt = "right" width="336" height="448" src="https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/File_002.jpeg">
 
-### Video 
-
+### Final product 
+![Final product](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Video.gif)
