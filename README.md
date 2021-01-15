@@ -58,6 +58,7 @@ I'm using KiCad to make the schematic for this project. You can either print it 
 [Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 ![Schematic](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
 ## Program
+In this project, I use Arduino IDE for beginner's convenience. It is a free software and most tinker beginner will be familiar with.
 [Access code file](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 
 ***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board***
