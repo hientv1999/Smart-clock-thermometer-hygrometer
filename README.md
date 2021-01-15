@@ -1,4 +1,5 @@
 # Smart-clock-thermometer-hygrometer
+[Download full project (contains PCB folder, README instruction file, Schematic picture and code)](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/archive/main.zip)
 ## The motivation
 This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with this microcontroller are: 
 1. Displaying characters with *LCD1602 Module*
@@ -9,12 +10,13 @@ This is my very first personal electronic project. I started my electronic hobby
 
 However, I wanted to make a special project that outclassed the above ones. Also, the projects must not use other modules other than the 6 mentioned modules above since I only have those in hands at that moment. Also, I desired to exploit the capability of the Arduino Uno R3 microcontroller as much as I can. Therefore, I came up with this project to fully utilize the entire I/O pins of Arduino Uno R3 microcontroller and all modules I have.
 ## Description
-The final project will be a device that can:
+The final project (under default) will be a device that can:
 * Switch between the *LCD1602 Module* and *4 Digit 7-Segment Display* to show the information based on the presence of the user.
-* If the user stands more than 3 meters away from the device, it will display the time via the *4 Digit 7-Segment Display* for easier visibility.
-* If the user stays closer than 3 meters from the device, the device will switch to the *LCD1602 Module* to display time and also, temperature and humidity readings.
-* Displays will be turned off after 10 seconds to save power
-* Displays can be activated again by hand-waving or hand clap.
+* Under default, the device will display the time under 24-hour format via the *4 Digit 7-Segment Display* for easier visibility.
+* If the user stays closer than 3 meters from the device, the device will switch to the *LCD1602 Module* to display time for 10 seconds and then, temperature and humidity readings for 10 seconds.
+* *LCD1602 Module* will be turned off after 10 seconds to save power.
+* *LCD1602 Module* can always be activated by motion within 3 meters or hand clap.
+* Single clap for showing Time reading only for 10 seconds
 
 ***Bonus: RGB LEDs will be added to make device's look more attractive***
 ## Required components
@@ -35,5 +37,15 @@ The final project will be a device that can:
 | 220 Ω resistor | 3 |
 | 1 kΩ resistor | 5 |
 | 2 kΩ resistor | 1 |
+| 830 Tie-Points Breadboard | 1 |
 | USB cable or Power cable | 1 |
-## Circuit
+| Plastic/Cardboard box | 1 |
+| Female-to-Male Dupont Wire | 20 |
+| Breadboard Jumper Wire | ~60 |
+## Schematic
+I'm using KiCad to make the schematic for this project. You can either print it onto a PCB or wire everything on the breadboard.
+[Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
+![alt text](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
+## Program
+
+***The RTC timer of the device will be set based on the timer of the computer you used to upload the code onto Arduino board***
