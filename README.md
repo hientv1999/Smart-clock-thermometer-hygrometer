@@ -55,10 +55,10 @@ The final project (under default) will be a device that can:
 | Breadboard Jumper Wire | ~60 |
 ## Schematic
 I'm using KiCad to make the schematic for this project. You can either print it onto a PCB or wire everything on the breadboard.
-[Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/main/PCB)
+[Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 ![alt text](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
 ## Program
-[Access code file](https://https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/main/Smart-clock-thermometer-hygrometer.ino)
+[Access code file](https://https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Smart-clock-thermometer-hygrometer.ino)
 ```
 #include <IRremote.h> 
 #include <dht.h> //temperature measure
