@@ -4,7 +4,7 @@
 [The motivation](#the-motivation)  
 [Description](#description)  
 [Required components](#required-components)  
-[Procedure](#procedure)  
+[Setup Procedure](#setup-procedure)  
 [ 1. Hardware connections](#hardware-connections)  
 [ 2. Programming](#programming)  
 [Gallery](#gallery)  
@@ -57,7 +57,7 @@ The final project (under default) will be a device that can:
 | Plastic/Cardboard box | 1 |
 | Female-to-Male Dupont Wire | 20 |
 | Breadboard Jumper Wire | ~60 |
-## Procedure
+## Setup Procedure
 ### Hardware connections
 
 I'm using KiCad to make the schematic for this project. You can either print it onto a PCB or wire everything on the breadboard.
