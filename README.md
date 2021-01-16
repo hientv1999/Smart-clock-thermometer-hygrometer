@@ -17,7 +17,7 @@ This is my very first personal electronic project. I started my electronic hobby
 1. Displaying characters with `LCD1602 Module`
 2. Monitoring temperature and humidity with `DHT11 Temperature and Humidity Module`
 3. Motion sensing with `HC-SR501 PIR Motion Sensor Module`
-4. Time display with `DS1307 RTC Module* and *4 Digit 7-Segment Display`
+4. Time display with `DS1307 RTC Module` and `4 Digit 7-Segment Display`
 5. Sound activation with `KY-037 Sound Detection Sensor`
 
 However, I wanted to make a special project that outclassed the above ones. Also, the projects must not use other modules other than the 6 mentioned modules above since I only have those in hands at that moment. Also, I desired to exploit the capability of the Arduino Uno R3 microcontroller as much as I can. Therefore, I came up with this project to fully utilize the entire I/O pins of Arduino Uno R3 microcontroller and all modules I have. It took me about 
@@ -33,7 +33,7 @@ The final project (under default) will be a device that can:
 
 ***Bonus: RGB LEDs will be added to make device's look more attractive***
 ## Required components
-| Devices | Number |
+| Device | Number |
 | :-----: | :----: | 
 | Arduino Uno R3 microcontroller | 1 | 
 | 4 Digit 7-Segment Display | 1 |
@@ -63,10 +63,8 @@ I'm using KiCad to make the schematic for this project. You can either print it 
 [Access KiCad folder](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/PCB)
 
 ![Schematic](https://github.com/hientv1999/Smart-clock-thermometer-hygrometer/blob/main/Schematic.PNG)
-### Programming
-
-In this project, I use Arduino IDE for beginner's convenience. It is a free software and most tinkering beginner will be familiar with.
-
+### Programming  
+In this project, I use Arduino IDE for beginner's convenience. 
 You may wish to install some libraries: 
 * [IRRemote.h](https://downloads.arduino.cc/libraries/github.com/z3t0/IRremote-2.8.1.zip)
 * [dht.h](https://downloads.arduino.cc/libraries/github.com/adafruit/DHT_sensor_library-1.4.1.zip)
