@@ -12,8 +12,6 @@
   - [Enclosure Assembly](#enclosure-assembly)  
   - [Behaviours](#behaviours)  
   - [Final Product](#final-product)  
-
-
 ## The motivation
 This is my very first personal electronic project. I started my electronic hobby with the Arduino Uno R3. One of the most common projects that regular beginners usually start with this microcontroller are: 
 1. Displaying characters with `LCD1602 Module`
@@ -22,7 +20,7 @@ This is my very first personal electronic project. I started my electronic hobby
 4. Time display with `DS1307 RTC Module* and *4 Digit 7-Segment Display`
 5. Sound activation with `KY-037 Sound Detection Sensor`
 
-However, I wanted to make a special project that outclassed the above ones. Also, the projects must not use other modules other than the 6 mentioned modules above since I only have those in hands at that moment. Also, I desired to exploit the capability of the Arduino Uno R3 microcontroller as much as I can. Therefore, I came up with this project to fully utilize the entire I/O pins of Arduino Uno R3 microcontroller and all modules I have.
+However, I wanted to make a special project that outclassed the above ones. Also, the projects must not use other modules other than the 6 mentioned modules above since I only have those in hands at that moment. Also, I desired to exploit the capability of the Arduino Uno R3 microcontroller as much as I can. Therefore, I came up with this project to fully utilize the entire I/O pins of Arduino Uno R3 microcontroller and all modules I have. It took me about 
 ## Description
 The final project (under default) will be a device that can:
 * Switch between the `LCD1602 Module` and `4 Digit 7-Segment Display` to show the information based on the presence of the user.
