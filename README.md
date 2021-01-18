@@ -41,7 +41,7 @@ The final project (under default) will be a device that can:
 | DS1307 RTC Module | 1 |
 | DHT11 Temperature and Humidity Module | 1 |
 |HC-SR501 PIR Motion| 1 |
-| Ky-037 Sound Detection Sensor | 1 |
+| KY-037 Sound Detection Sensor | 1 |
 | Red LED | 1 |
 | Green LED | 1 |
 | Blue LED | 1 |
